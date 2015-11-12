@@ -253,7 +253,7 @@
   width: 100px;
   height: 100px;
   position: relative;
-  background-color: rgba(255, 255, 255, 0.45);
+  background-color: rgba(255, 255, 255, 0.35);
   -webkit-animation: square3 2s infinite;
   animation: square 2s infinite;
   -webkit-transition-timing-function: cubic-bezier(0.3,0.5,0.7,0.5);
@@ -266,7 +266,7 @@
   width: 100px;
   height: 100px;
   position: absolute;
-  background-color: rgba(255, 255, 255, 0.45);
+  background-color: rgba(255, 255, 255, 0.35);
   -webkit-animation: square4 2s infinite;
   animation: square 2s infinite;
   -webkit-transition-timing-function: cubic-bezier(0.3,0.5,0.7,0.5);
